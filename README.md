@@ -1,4 +1,5 @@
 # Analyzing the Quality of Concepts Learned by Self-Explainable and Foundation Models
+This code allows to train explainable models (GlanceNet, CBM) and Visual-Language Concept Bottleneck Models on two possible datasets: Shapes3d and CelebA. It also allows to collect the metrics relevant to assess concept quality: disentanglement, completeness, leakage.
 ## Instructions
 
 ## Master Thesis
