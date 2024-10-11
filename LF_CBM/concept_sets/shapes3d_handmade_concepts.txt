@@ -1,0 +1,87 @@
+a black object
+a blue object
+a brown object
+a cone
+a cube
+a cyan object
+a cylinder
+a dark black object
+a dark blue object
+a dark brown object
+a dark cyan object
+a dark gray object
+a dark green object
+a dark magenta object 
+a dark orange object  
+a dark pink object 
+a dark purple object  
+a dark red object 
+a dark white object
+a dark yellow object
+a donut
+a ellipsoid
+a gray object
+a green object
+a light black object
+a light blue object
+a light brown object
+a light cyan object
+a light gray object
+a light green object
+a light magenta object  
+a light orange object 
+a light pink object 
+a light purple object 
+a light red object 
+a light white object
+a light yellow object
+a magenta object  
+a orange object 
+a pink object 
+a purple object 
+a pyramid
+a red object  
+a sphere
+a torus
+a wedge
+a white object
+a yellow object
+black background
+blue background
+brown background
+cyan background
+dark black background
+dark blue background
+dark brown background
+dark cyan background
+dark gray background
+dark green background
+dark magenta background 
+dark orange background  
+dark pink background  
+dark purple background  
+dark red background 
+dark white background
+dark yellow background
+gray background
+green background
+light black background
+light blue background
+light brown background
+light cyan background
+light gray background
+light green background
+light magenta background  
+light orange background 
+light pink background 
+light purple background 
+light red background  
+light white background
+light yellow background
+magenta background  
+orange background 
+pink background 
+purple background 
+red background
+white background
+yellow background
