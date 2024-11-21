@@ -2,10 +2,11 @@
 This code allows to train explainable models (GlanceNet, CBM) and Visual-Language Concept Bottleneck Models on two possible datasets: Shapes3d and CelebA. It also allows to collect the metrics relevant to assess concept quality: disentanglement, completeness, leakage.
 ## Instructions
 # Train models
-Run 'train_bash.sh' 
+Run `train_bash.sh` 
+
 You can edit the file to edit the parameters.
 # Evaluate
-Run 'show_results.py'
+Run `show_results.py`
 ## Master Thesis
 This is the work for my Master thesis at the University of Trento in 2024.
 
