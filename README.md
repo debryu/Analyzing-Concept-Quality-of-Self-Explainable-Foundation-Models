@@ -1,7 +1,11 @@
 # Analyzing the Quality of Concepts Learned by Self-Explainable and Foundation Models
 This code allows to train explainable models (GlanceNet, CBM) and Visual-Language Concept Bottleneck Models on two possible datasets: Shapes3d and CelebA. It also allows to collect the metrics relevant to assess concept quality: disentanglement, completeness, leakage.
 ## Instructions
-
+# Train models
+Run 'train_bash.sh' 
+You can edit the file to edit the parameters.
+# Evaluate
+Run 'show_results.py'
 ## Master Thesis
 This is the work for my Master thesis at the University of Trento in 2024.
 
@@ -14,7 +18,7 @@ Part of the code was taken from other sources. I will list them here:
 
 [Label-free Concept Bottleneck Models](https://openreview.net/pdf?id=FlCg47MNvBA)
 
-[DCI](https://arxiv.org/abs/2210.00364)
+[DCI-ES: An Extended Disentanglement Framework with Connections to Identifiability](https://arxiv.org/abs/2210.00364)
 
 
 
