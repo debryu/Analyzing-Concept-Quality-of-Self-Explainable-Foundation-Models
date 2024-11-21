@@ -4,9 +4,12 @@ This code allows to train explainable models (GlanceNet, CBM) and Visual-Languag
 # Train models
 Run `train_bash.sh` 
 
-You can edit the file to edit the parameters.
+You can edit the file to change the training parameters. It starts training all the different models that are added to the file.
 # Evaluate
-Run `show_results.py`
+Run `show_results.py`.
+
+The output is a preformatted latex table. All the metrics are also stored in the model checkpoint's folder.
+
 ## Master Thesis
 This is the work for my Master thesis at the University of Trento in 2024.
 
